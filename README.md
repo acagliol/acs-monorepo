@@ -24,7 +24,7 @@ acs-monorepo/
 
 1. **Clone the monorepo with submodules:**
    ```bash
-   git clone --recursive https://github.com/anaypant/acs-monorepo.git
+   git clone --recursive https://github.com/acagliol/acs-monorepo.git
    cd acs-monorepo
    ```
 
@@ -86,12 +86,12 @@ npm run build:backend
 ## Repository Links
 
 ### Frontend Repository
-- **GitHub**: https://github.com/anaypant/acs-frontend.git
+- **GitHub**: https://github.com/acagliol/acs-frontend.git
 - **Technology Stack**: Next.js 15, React 18, TypeScript, Tailwind CSS
 - **Features**: Modern UI/UX, authentication, dashboard, analytics
 
 ### Backend Repository
-- **GitHub**: https://github.com/anaypant/acs-backend.git
+- **GitHub**: https://github.com/acagliol/acs-backend.git
 - **Technology Stack**: AWS services, Terraform, serverless architecture
 - **Features**: API services, infrastructure as code, cloud deployment
 
