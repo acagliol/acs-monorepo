@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "ACS Automated Consultancy Services Monorepo",
   "private": true,
-  "workspaces": [
-    "acs-backend",
-    "acs-frontend"
-  ],
   "scripts": {
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "dev:backend": "npm run dev --workspace=acs-backend",
