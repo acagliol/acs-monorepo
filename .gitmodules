@@ -1,6 +1,6 @@
 [submodule "acs-frontend"]
 	path = acs-frontend
-	url = https://github.com/anaypant/acs-frontend.git
+	url = https://github.com/acagliol/acs-frontend.git
 [submodule "acs-backend"]
 	path = acs-backend
-	url = https://github.com/anaypant/acs-backend.git
+	url = https://github.com/acagliol/acs-backend.git
